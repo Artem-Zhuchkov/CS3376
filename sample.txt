@@ -1,0 +1,22 @@
+total 11312
+-rw-r--r--@ 1 Artem  staff    20621 Jan 26 17:44 Bash - week3.jpeg
+-rw-r-----@ 1 Artem  staff    30159 Jan 26 17:35 Evolution of Unix - Dennis M. Ritchie 1984.pdf
+-rw-r--r--@ 1 Artem  staff    95336 Jan 21 12:45 H1-1.docx
+-rw-r--r--@ 1 Artem  staff    33594 Jan 19 19:20 Hw1-1.jpeg
+-rw-r--r--@ 1 Artem  staff    80645 Jan 21 12:50 Hw2-1.docx
+-rw-r--r--@ 1 Artem  staff      178 Jan 21 12:49 Pizza.rtf
+-rw-r-----@ 1 Artem  staff  5360324 Jan 19 20:29 Prentice_Hall_A_Practical_Guide_to_Linux_Commands_Editors_and_Shell_Programming_2nd.pdf
+-rwxr-xr-x  1 Artem  staff     8748 Jan 26 17:54 a.out
+-rw-r--r--@ 1 Artem  staff      335 Jan 21 11:58 abc.txt
+-rwxr-x--x@ 1 Artem  staff       32 Jan 26 17:30 bash1.sh
+-rwxr-x--x@ 1 Artem  staff       67 Jan 26 17:31 bash2.sh
+-rwxr-xr-x  1 Artem  staff     8432 Jan 19 19:17 hello
+-rw-r-----@ 1 Artem  staff       90 Jan 19 18:55 hello.c
+-rw-r--r--@ 1 Artem  staff    29546 Jan 21 12:49 pizza.jpeg
+-rw-r--r--@ 1 Artem  staff        0 Jan 26 18:06 sample.txt
+-rw-r--r--  1 Artem  staff     1377 Jan 26 18:04 sample1.txt
+-rw-r-----@ 1 Artem  staff      477 Jan 26 17:33 simple-cat.c
+-rwxr-xr-x  1 Artem  staff     8748 Jan 26 17:54 simple-ls
+-rw-r--r--@ 1 Artem  staff    51815 Jan 26 17:57 simple-ls week 3.jpeg
+-rw-r-----@ 1 Artem  staff      516 Jan 26 17:33 simple-ls.c
+-rw-r--r--  1 Artem  staff        0 Jan 19 20:51 xyz
